@@ -1,6 +1,10 @@
-# 汉字 Luyện Nói Tiếng Trung
+# 汉字 Luyện Nói — Luyện nói tiếng Trung, Anh, Nhật, Hàn… với camera
 
-Web app luyện nói tiếng Trung: vừa quay mặt/khẩu hình của mình bằng camera, vừa xem tài liệu học (YouTube, PDF, ảnh, thẻ Anki, văn bản) trên cùng một màn hình. Dùng tốt trên điện thoại lẫn máy tính.
+Web app luyện nói ngoại ngữ miễn phí: vừa quay mặt/khẩu hình của mình bằng camera, vừa xem tài liệu học (YouTube, PDF, ảnh, thẻ Anki, văn bản) trên cùng một màn hình. Dùng tốt trên điện thoại lẫn máy tính, không cần cài đặt, không cần đăng ký.
+
+App được thiết kế ban đầu cho **tiếng Trung**, nhưng dùng được cho **mọi ngôn ngữ**: tiếng Anh, tiếng Nhật, tiếng Hàn, tiếng Pháp, tiếng Đức, tiếng Thái… Chỉ cần mở video, PDF giáo trình, bộ thẻ Anki hoặc dán đoạn hội thoại của ngôn ngữ bạn đang học.
+
+> *Free web app to practice speaking any language (Chinese, English, Japanese, Korean…) — record your face and mouth with the camera while reading study materials: YouTube, PDF, images, Anki decks, or pasted text.*
 
 **Dùng thử:** https://luyennoi.sctuts.com
 
@@ -9,6 +13,16 @@ Toàn bộ app là **một file `index.html`** duy nhất, không cần build, k
 ![Màn hình chính trên điện thoại](docs/screenshots/01-mobile-tren-duoi.png)
 
 ---
+
+## Dùng để làm gì?
+
+- **Luyện phát âm, khẩu hình**: nhìn miệng mình trên camera khi đọc theo, so với người bản xứ trong video.
+- **Shadowing**: mở video YouTube ở nửa dưới, nói nhại theo và quan sát mình ở nửa trên.
+- **Ôn từ vựng bằng thẻ Anki**: nạp file export từ Anki (tiếng Trung, Anh, Nhật, Hàn…), đọc to từng thẻ trước camera.
+- **Luyện đọc giáo trình**: mở PDF hoặc ảnh chụp sách, dùng laser chỉ vào từng chữ khi đọc.
+- **Tự quay video bài nói**: ghi hình lại để nghe lại, sửa lỗi phát âm, hoặc gửi cho giáo viên.
+
+> Ghi chú: ở dạng bảng, tiêu đề cột đang để theo tiếng Trung (Hán tự / Pinyin / Nghĩa tiếng Việt). Với ngôn ngữ khác, cột 1 là từ/câu, cột 2 là phiên âm, cột 3 là nghĩa — vẫn hiển thị bình thường.
 
 ## Tính năng
 
@@ -115,3 +129,7 @@ Một file HTML, thư viện tải qua CDN (đã khóa phiên bản):
 - [PDF.js](https://mozilla.github.io/pdf.js/) 3.11.174
 - [PapaParse](https://www.papaparse.com) 5.4.1
 - [MediaPipe Selfie Segmentation](https://github.com/google-ai-edge/mediapipe) 0.1.1675465747
+
+---
+
+**Từ khóa:** luyện nói tiếng Trung, luyện nói tiếng Anh, luyện nói tiếng Nhật, luyện nói tiếng Hàn, luyện phát âm, luyện khẩu hình, shadowing, tự học ngoại ngữ, học tiếng Trung online, học HSK, ôn từ vựng Anki, quay video luyện nói, app luyện nói miễn phí · *speaking practice, pronunciation practice, shadowing, language learning, Anki flashcards, webcam mirror*
